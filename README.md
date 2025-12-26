@@ -7,7 +7,9 @@
 python file.py
 ```
 2.或者直接运行exe文件，File_exe的file.exe文件，一样的效果
-<img width="1153" height="381" alt="image" src="https://github.com/user-attachments/assets/e4c5c366-9400-4d3e-b630-c2cb052ca167" />
+
+<img width="1077" height="229" alt="image" src="https://github.com/user-attachments/assets/3bb97714-396b-4a9d-9e16-8874863b3e34" />
+
 
 
 # 实现效果
